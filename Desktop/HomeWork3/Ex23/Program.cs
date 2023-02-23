@@ -12,14 +12,14 @@ if (N < 0){
     N = m;
     N = -1;
     while ( m <= N){
-    double result = Math.Pow(m,2);
+    double result = Math.Pow(m,3);
     Console.Write($"{result}, ");
     m++;
     }
     
 }else {
     while ( a <= N){
-    double result = Math.Pow(a,2);
+    double result = Math.Pow(a,3);
     Console.Write($"{result}, ");
     a++;
     }
