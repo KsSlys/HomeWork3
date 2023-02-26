@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.AssemblyInfo.cs
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\bin\Debug\net6.0\Ex.28.exe
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\bin\Debug\net6.0\Ex.28.deps.json
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\bin\Debug\net6.0\Ex.28.runtimeconfig.json
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\bin\Debug\net6.0\Ex.28.dll
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\bin\Debug\net6.0\Ex.28.pdb
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.dll
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\refint\Ex.28.dll
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.pdb
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\Ex.28.genruntimeconfig.cache
+C:\Users\User\Desktop\Семинары.Языки программирования\Ex.28\obj\Debug\net6.0\ref\Ex.28.dll
